@@ -2,4 +2,4 @@ const addTwo = (a,b) => {
     return a - b
 }
 
-module.exports = addTwo 
+module.exports = addTwo
